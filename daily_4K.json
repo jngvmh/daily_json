@@ -1,0 +1,62 @@
+{
+  "2025-11-23": [
+    {
+      "id": 1,
+      "title": "Green tree",
+      "hint": "Standing in the park",
+      "imageURL": "https://loremflickr.com/1440/3040/tree"
+    },
+    {
+      "id": 2,
+      "title": "Mountain",
+      "hint": "Where there is snow",
+      "imageURL": "https://loremflickr.com/1440/3040/mountain"
+    },
+    {
+      "id": 3,
+      "title": "Sun",
+      "hint": "Shining in the morning",
+      "imageURL": "https://loremflickr.com/1440/3040/sun"
+    }
+  ],
+  "2025-11-24": [
+    {
+      "id": 1,
+      "title": "Beach",
+      "hint": "With sand and waves",
+      "imageURL": "https://loremflickr.com/1440/3040/beach"
+    },
+    {
+      "id": 2,
+      "title": "Flower",
+      "hint": "Brightly colored",
+      "imageURL": "https://loremflickr.com/1440/3040/flower"
+    },
+    {
+      "id": 3,
+      "title": "Cloud",
+      "hint": "Floating in the sky",
+      "imageURL": "https://loremflickr.com/1440/3040/cloud"
+    }
+  ],
+  "2025-11-25": [
+    {
+      "id": 1,
+      "title": "Animal",
+      "hint": "Has fur",
+      "imageURL": "https://loremflickr.com/1440/3040/animal"
+    },
+    {
+      "id": 2,
+      "title": "Car",
+      "hint": "Driving on the road",
+      "imageURL": "https://loremflickr.com/1440/3040/car"
+    },
+    {
+      "id": 3,
+      "title": "House",
+      "hint": "Place to live",
+      "imageURL": "https://loremflickr.com/1440/3040/house"
+    }
+  ]
+}
