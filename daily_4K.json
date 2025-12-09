@@ -2,61 +2,52 @@
   "2025-11-23": [
     {
       "id": 1,
-      "title": "Green tree",
-      "hint": "Standing in the park",
-      "imageURL": "https://loremflickr.com/1440/3040/tree"
+      "title": "Cat",
+      "imageURL": "https://loremflickr.com/cache/resized/65535_54285763932_8fe595a2e7_k_606_1280_nofilter.jpg"
     },
     {
       "id": 2,
       "title": "Mountain",
-      "hint": "Where there is snow",
-      "imageURL": "https://loremflickr.com/1440/3040/mountain"
+      "imageURL": "https://loremflickr.com/cache/resized/65535_53693545628_dd5d0f9647_k_606_1280_nofilter.jpg"
     },
     {
       "id": 3,
-      "title": "Sun",
-      "hint": "Shining in the morning",
-      "imageURL": "https://loremflickr.com/1440/3040/sun"
+      "title": "Stone",
+      "imageURL": "https://loremflickr.com/cache/resized/65535_52994486008_7787dc1fa9_k_606_1280_nofilter.jpg"
     }
   ],
   "2025-11-24": [
     {
       "id": 1,
       "title": "Beach",
-      "hint": "With sand and waves",
-      "imageURL": "https://loremflickr.com/1440/3040/beach"
+      "imageURL": "https://loremflickr.com/cache/resized/65535_54192736411_2b74e601a3_k_606_1280_nofilter.jpg"
     },
     {
       "id": 2,
       "title": "Flower",
-      "hint": "Brightly colored",
-      "imageURL": "https://loremflickr.com/1440/3040/flower"
+      "imageURL": "https://loremflickr.com/cache/resized/65535_53044644526_6a66e02454_h_606_1280_nofilter.jpg"
     },
     {
       "id": 3,
       "title": "Cloud",
-      "hint": "Floating in the sky",
-      "imageURL": "https://loremflickr.com/1440/3040/cloud"
+      "imageURL": "http://loremflickr.com/cache/resized/65535_54187744266_4c3f8df8b2_k_606_1280_nofilter.jpg"
     }
   ],
   "2025-11-25": [
     {
       "id": 1,
-      "title": "Animal",
-      "hint": "Has fur",
-      "imageURL": "https://loremflickr.com/1440/3040/animal"
+      "title": "Sheep",
+      "imageURL": "http://loremflickr.com/cache/resized/65535_54435233089_f38d983150_k_606_1280_nofilter.jpg"
     },
     {
       "id": 2,
       "title": "Car",
-      "hint": "Driving on the road",
-      "imageURL": "https://loremflickr.com/1440/3040/car"
+      "imageURL": "http://loremflickr.com/cache/resized/65535_53057780488_91f5936c5b_k_606_1280_nofilter.jpg"
     },
     {
       "id": 3,
       "title": "House",
-      "hint": "Place to live",
-      "imageURL": "https://loremflickr.com/1440/3040/house"
+      "imageURL": "http://loremflickr.com/cache/resized/65535_54210814985_4a6bed091b_h_606_1280_nofilter.jpg"
     }
   ]
 }
